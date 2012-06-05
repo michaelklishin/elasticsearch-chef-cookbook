@@ -34,7 +34,7 @@ attributes at the moment.
 
 ## Dependencies
 
-OpenJDK 6 or Sun JDK 6.
+OpenJDK 7, OpenJDK 6 or Sun JDK 6.
 
 
 ## Copyright & License
